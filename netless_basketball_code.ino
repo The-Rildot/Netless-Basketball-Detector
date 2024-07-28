@@ -1,9 +1,6 @@
 /*
 Author: Rony Tsirkel
-UBIT: ronytsir
-Person #: 50430251
 Date: 12/1/2023
-Time: 2:40PM
 Purpose: Detects when an object moves in front of the sensors. Once an object is detected make a sound, flash an LED, and increment a counter.
 */
 
